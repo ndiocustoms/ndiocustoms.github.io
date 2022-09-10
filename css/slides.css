@@ -12850,10 +12850,14 @@ span.next-arrow svg {
 
 /*# sourceMappingURL=slides.css.map */
 
-#background_1 { background-image: url(../assets/img/background/img-09.jpg); }
-#background_2 { background-image: url(../assets/img/background/img-15.jpg); }
+#slide_1_background { background-image: url(../assets/img/background/img-09.jpg); }
+#slide_2_background { background-image: url(../assets/img/background/img-15.jpg); }
+#slide_3_background { background-image: url(../assets/img/background/img-85.jpg); }
+#slide_5_background { background-image: url(../assets/img/background/img-85.jpg); }
 
-@media screen and (max-width: 400px) {
-    #background_1 { background-image: url(../assets/img/background/img-09_m.jpg); }
-    #background_2 { background-image: url(../assets/img/background/img-15_m.jpg); }
+@media screen and (max-width: 1200px) {
+    #slide_1_background { background-image: url(../assets/img/background/img-09_m.jpg); }
+    #slide_2_background { background-image: url(../assets/img/background/img-15_m.jpg); }
+    #slide_3_background { background-image: url(../assets/img/background/img-14_m.jpg); }
+    #slide_5_background { background-image: url(../assets/img/background/img-14_m.jpg); }
 }
