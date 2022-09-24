@@ -1431,8 +1431,8 @@ p.uppercase, .p.uppercase,
   max-width: 186px !important;
 }
 
-.fix-3-12 {
-  max-width: 279px !important;
+.fix-logo {
+  max-width: 50% !important;
 }
 
 .fix-4-12 {
